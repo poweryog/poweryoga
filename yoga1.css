@@ -1,0 +1,53 @@
+h1{
+	color: red;
+}
+#first{
+	
+}
+#sec{
+	background-color: orange;
+	height: 350px;
+	margin-top: 10px;
+}
+#third{
+	
+	margin-top: 10px;
+	background-color: black; 
+}
+.box{
+	border-radius: 120px;
+	width: 350px;
+	height: 250px;
+	background-color: wheat;
+	float: left;
+	margin-top: 30px;
+	margin-left: 70px;
+}
+.box:nth-child(1)
+{
+	background-image: url(gif1.gif);
+	background-size: cover;
+
+}
+.box:nth-child(2)
+{
+	background-image: url(h3.jpg);
+	background-size: cover;
+
+}
+.box:nth-child(3)
+{
+	background-image: url(gif2.gif);
+	background-size: cover;
+
+}
+summary{
+	background-color:   black;
+	color:  white;
+	font-size: 15px;
+	margin-top: 10px;
+	border-radius: groove red;
+
+}
+
+
