@@ -1,0 +1,20 @@
+table{
+	height: 600px;
+	border-color: 5px solid red;
+}
+
+th{
+	text-decoration: double line;
+	text-decoration-color: groove red;
+	background-image: linear-gradient(to top,green,#4dffff);
+
+}
+td{
+	background-image: linear-gradient(to top,#4dffff,green);
+
+}
+h2{
+	background-image: url(pose.jpg);
+	height: 172px;
+}
+
